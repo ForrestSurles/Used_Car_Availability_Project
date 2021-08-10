@@ -2,6 +2,7 @@
 Resources/
 meeting_notes/
 raw_data/
+env_reminder.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
